@@ -3,7 +3,7 @@ var reels = [
     document.getElementById('reel2'),
     document.getElementById('reel3')
 ];
-var credits = 10;
+var credits = 100;
 var spinCost = 1;
 var winReward = 5;
 
